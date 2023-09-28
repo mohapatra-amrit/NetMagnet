@@ -11,3 +11,8 @@ The above code is implementing the Grey Wolf Optimization (GWO) algorithm, Parti
 **Pretty Good Privacy**: This is the interaction network of users of the Pretty Good Privacy (PGP) algorithm.  http://konect.cc/networks/arenas-pgp//arenas-pgp/ 
 
 **AstroPH**: This network dataset is in the category of Collaboration Networks https://networkrepository.com/ca-AstroPh.php 
+
+## Results 
+![image](https://github.com/mohapatra-amrit/NetMagnet/assets/140162205/413160ef-7c37-4518-9c84-d29fe5fd706a)
+
+![image](https://github.com/mohapatra-amrit/NetMagnet/assets/140162205/0c1cbf9c-5cdc-4e39-8ceb-77486c20f5e5)
