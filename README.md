@@ -23,7 +23,7 @@ The above code is implementing the Grey Wolf Optimization (GWO) algorithm, Parti
 
 ## Installation
 
-To set up the Dual-Layer Intrusion Detection System, follow these steps:
+To set up the NetMagnet, follow these steps:
 
 1. Clone the repository:
 
